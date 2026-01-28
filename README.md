@@ -11,6 +11,9 @@ and time/space complexity analysis.
 - Hash Maps
 - Recursion
 - Trees
+- Linked Lists
+- Stacks
+
 
 ## Goals
 - Build strong problem-solving fundamentals
