@@ -13,8 +13,11 @@ pointer manipulation and memory-efficient data structures.
 
 ## Problems Included
 - Reverse a Singly Linked List
+- Linked List Cycle Detection (Floyd’s Algorithm)
 
 ## Key Learnings
 - Safe pointer reassignment
 - Iterative vs recursive approaches
 - Handling edge cases (empty list, single node)
+- Detecting cycles using two-pointer technique
+
